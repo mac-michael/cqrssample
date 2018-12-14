@@ -1,0 +1,5 @@
+D:\My projects\CQRS\trunk\CQRS.Base\bin\Debug\CQRS.Base.dll
+D:\My projects\CQRS\trunk\CQRS.Base\bin\Debug\CQRS.Base.pdb
+D:\My projects\CQRS\trunk\CQRS.Base\obj\Debug\CQRS.Base.dll
+D:\My projects\CQRS\trunk\CQRS.Base\obj\Debug\CQRS.Base.pdb
+D:\My projects\CQRS\trunk\CQRS.Base\obj\Debug\CQRS.Base.csprojResolveAssemblyReference.cache

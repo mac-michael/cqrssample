@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Crm";
+}
+
+<h2>Crm</h2>
+
+@using (Html.BeginForm("CreateLead", "CRM", FormMethod.Post))
+{
+    <input name="leadName"/>
+    <button>Create Lead</button>
+}

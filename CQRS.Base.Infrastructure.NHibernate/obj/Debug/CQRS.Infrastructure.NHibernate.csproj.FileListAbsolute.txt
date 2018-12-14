@@ -1,0 +1,11 @@
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\obj\Debug\CQRS.Infrastructure.NHibernate.csprojResolveAssemblyReference.cache
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\CQRS.Infrastructure.NHibernate.dll
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\CQRS.Infrastructure.NHibernate.pdb
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\CQRS.Base.Interfaces.dll
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\FluentNHibernate.dll
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\NHibernate.dll
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\CQRS.Base.Interfaces.pdb
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\FluentNHibernate.xml
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\bin\Debug\NHibernate.xml
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\obj\Debug\CQRS.Infrastructure.NHibernate.dll
+D:\My projects\CQRS\trunk\CQRS.Infrastructure.NHibernate\obj\Debug\CQRS.Infrastructure.NHibernate.pdb

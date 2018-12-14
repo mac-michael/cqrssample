@@ -1,0 +1,7 @@
+D:\My projects\CQRS\trunk\CQRS.Sales.Interfaces\obj\Debug\CQRS.Sales.Interfaces.csprojResolveAssemblyReference.cache
+D:\My projects\CQRS\trunk\CQRS.Sales.Interfaces\bin\Debug\CQRS.Sales.Interfaces.dll
+D:\My projects\CQRS\trunk\CQRS.Sales.Interfaces\bin\Debug\CQRS.Sales.Interfaces.pdb
+D:\My projects\CQRS\trunk\CQRS.Sales.Interfaces\obj\Debug\CQRS.Sales.Interfaces.dll
+D:\My projects\CQRS\trunk\CQRS.Sales.Interfaces\obj\Debug\CQRS.Sales.Interfaces.pdb
+D:\My projects\CQRS\trunk\CQRS.Sales.Interfaces\bin\Debug\CQRS.Base.dll
+D:\My projects\CQRS\trunk\CQRS.Sales.Interfaces\bin\Debug\CQRS.Base.pdb
