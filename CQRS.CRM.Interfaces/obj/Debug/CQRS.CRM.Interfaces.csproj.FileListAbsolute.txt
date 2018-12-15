@@ -1,7 +1,0 @@
-D:\My projects\CQRS\trunk\CQRS.CRM.Interfaces\bin\Debug\CQRS.CRM.Interfaces.dll
-D:\My projects\CQRS\trunk\CQRS.CRM.Interfaces\bin\Debug\CQRS.CRM.Interfaces.pdb
-D:\My projects\CQRS\trunk\CQRS.CRM.Interfaces\obj\Debug\CQRS.CRM.Interfaces.csprojResolveAssemblyReference.cache
-D:\My projects\CQRS\trunk\CQRS.CRM.Interfaces\obj\Debug\CQRS.CRM.Interfaces.dll
-D:\My projects\CQRS\trunk\CQRS.CRM.Interfaces\obj\Debug\CQRS.CRM.Interfaces.pdb
-D:\My projects\CQRS\trunk\CQRS.CRM.Interfaces\bin\Debug\CQRS.Base.dll
-D:\My projects\CQRS\trunk\CQRS.CRM.Interfaces\bin\Debug\CQRS.Base.pdb

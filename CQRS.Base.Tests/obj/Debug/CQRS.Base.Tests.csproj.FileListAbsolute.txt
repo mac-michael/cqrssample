@@ -1,9 +1,0 @@
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\bin\Debug\CQRS.Base.Tests.dll
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\bin\Debug\CQRS.Base.Tests.pdb
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\bin\Debug\CQRS.Base.dll
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\bin\Debug\nunit.framework.dll
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\bin\Debug\CQRS.Base.pdb
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\bin\Debug\nunit.framework.xml
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\obj\Debug\CQRS.Base.Tests.csprojResolveAssemblyReference.cache
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\obj\Debug\CQRS.Base.Tests.dll
-D:\My projects\CQRS\trunk\CQRS.Base.Tests\obj\Debug\CQRS.Base.Tests.pdb

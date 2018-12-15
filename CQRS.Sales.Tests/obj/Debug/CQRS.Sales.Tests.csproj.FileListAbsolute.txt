@@ -1,5 +1,0 @@
-D:\My projects\CQRS\trunk\CQRS.Sales.Tests\bin\Debug\CQRS.Sales.Tests.dll
-D:\My projects\CQRS\trunk\CQRS.Sales.Tests\bin\Debug\CQRS.Sales.Tests.pdb
-D:\My projects\CQRS\trunk\CQRS.Sales.Tests\obj\Debug\CQRS.Sales.Tests.dll
-D:\My projects\CQRS\trunk\CQRS.Sales.Tests\obj\Debug\CQRS.Sales.Tests.pdb
-D:\My projects\CQRS\trunk\CQRS.Sales.Tests\obj\Debug\CQRS.Sales.Tests.csprojResolveAssemblyReference.cache

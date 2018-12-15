@@ -1,7 +1,0 @@
-D:\My projects\CQRS\trunk\CQRS.Shipping.Interfaces\bin\Debug\CQRS.Shipping.Interfaces.dll
-D:\My projects\CQRS\trunk\CQRS.Shipping.Interfaces\bin\Debug\CQRS.Shipping.Interfaces.pdb
-D:\My projects\CQRS\trunk\CQRS.Shipping.Interfaces\obj\Debug\CQRS.Shipping.Interfaces.csprojResolveAssemblyReference.cache
-D:\My projects\CQRS\trunk\CQRS.Shipping.Interfaces\obj\Debug\CQRS.Shipping.Interfaces.dll
-D:\My projects\CQRS\trunk\CQRS.Shipping.Interfaces\obj\Debug\CQRS.Shipping.Interfaces.pdb
-D:\My projects\CQRS\trunk\CQRS.Shipping.Interfaces\bin\Debug\CQRS.Base.dll
-D:\My projects\CQRS\trunk\CQRS.Shipping.Interfaces\bin\Debug\CQRS.Base.pdb
