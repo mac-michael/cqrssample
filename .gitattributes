@@ -1,0 +1,3 @@
+*.cs linguist-language=csharp
+
+*.cs     diff=csharp

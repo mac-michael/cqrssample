@@ -1,0 +1,32 @@
+﻿@using CQRS.Sales.Interfaces.Presentation
+@model List<ClientOrderListItemDto>
+
+<div class="ordersListContent">
+	<h1>List of all orders</h1>
+	<div class="ordersList">
+		<h2>orders created in the system</h2>
+
+		<table class="ordersTable">
+			<thead>
+				<tr>
+					<td class="submitDateColumn">submitted</td>
+					<td class="statusColumn">status</td>
+					<td class="totalCostColumn">price</td>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var order in Model)
+                {
+                    <tr>
+                        <td class="submitDateColumn">@order.SubmitDate
+                        </td>
+                        <td class="statusColumn">@order.Status
+                        </td>
+                        <td class="totalCostColumn">@order.TotalCost
+                        </td>
+                    </tr>
+                }
+			</tbody>
+		</table>
+	</div>
+</div>

@@ -1,0 +1,40 @@
+﻿@using CQRS.Shipping.Interfaces.Presentation
+@model System.Collections.Generic.List<ShipmentDto>
+<div class="shipmentsListContent">
+	<h1>Shipments</h1>
+	<div class="shipmentsContainer">
+		<h2>List of all created shipments</h2>
+		<table class="shipmentsTable">
+			<thead>
+				<tr>
+					<td class="shipmentIdColumn">shipmentId</td>
+					<td class="orderIdColumn">orderId</td>
+					<td class="statusColumn">status</td>
+					<td class="buttonsColumn"></td>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var shipment in Model)
+                {
+					<tr>
+						<td class="shipmentIdColumn">@shipment.ShipmentId</td>
+						<td class="orderIdColumn">@shipment.OrderId</td>
+						<td class="statusColumn">@shipment.Status</td>
+						<td class="buttonsColumn">
+							
+                            @using (Html.BeginForm( "Send", "Shipments", FormMethod.Post))
+                            {
+                                <button name="shipmentId" value="@shipment.ShipmentId">Send</button>
+                            }
+
+                            @using (Html.BeginForm( "Deliver", "Shipments", FormMethod.Post))
+                            {
+                                <button name="shipmentId" value="@shipment.ShipmentId">Deliver</button>
+                            }
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>

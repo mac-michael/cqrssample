@@ -1,0 +1,47 @@
+﻿@using CQRS.Web.Controllers
+@model IEnumerable<CartItemDto>
+@{
+    Layout = null;
+}
+
+<div class="basketContainer">
+	<div class="highlight">
+		<h1>Your basket</h1>
+	</div>
+    <div class="basketContent">
+		<ul id="basketItemsList">
+        @foreach (var item in Model)
+        {
+            <li>
+		        <span>@item.Name</span>
+                @if ( item.Count > 1 )
+                {
+                    <span>@item.Count</span>   
+                }
+		        
+	        </li>
+        }
+		</ul>
+        @if (Model.Count()> 0)
+        {
+            <div class="basketControls">
+                <div>
+                    @using (Html.BeginForm("Checkout", "Cart", FormMethod.Post))
+                    {
+                        <input type="submit" value="Checkout" />
+                    }
+                </div>
+                <div>
+                    @using (Html.BeginForm("Clear", "Cart", FormMethod.Post))
+                    {
+                        @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                        <input type="submit" value="Clear" />
+                    }
+                </div>
+            </div>
+        }
+    </div>
+	<div class="basketNoContent" style="display: none;">
+		<p class="notification">your basket is empty</p>
+	</div>
+</div>
